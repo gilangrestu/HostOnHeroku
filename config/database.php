@@ -50,7 +50,7 @@ return [
             'port' => env('DB_PORT', '3306'),
             'database' => env('DB_DATABASE', 'betapmd'),
             'username' => env('DB_USERNAME', 'betapmd'),
-            'password' => env('DB_PASSWORD', 'icui4cuu'),
+            'password' => env('DB_PASSWORD', '2975d514'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
