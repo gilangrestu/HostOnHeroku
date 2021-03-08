@@ -5,7 +5,7 @@
             <div class="flex">
                 <!-- Logo -->
                 <div class="flex-shrink-0 flex items-center">
-                    <a class="navbar-brand" href="{{ ('/sekdin') }}"><img style="width: 230px" src="stylelogin/images/logo.svg"></a>
+                    <a class="navbar-brand" href="{{ ('/VX0G8waF29qPiHoA') }}"><img style="width: 230px" src="stylelogin/images/logo.svg"></a>
                 </div>
                 <!-- Navigation Links -->
             </div>

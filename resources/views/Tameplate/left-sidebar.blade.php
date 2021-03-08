@@ -4,7 +4,7 @@
       <!-- Sidebar user panel (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="info">
-          <a href="{{ ('/sekdin') }}" class="d-block">Dashboard</a>
+          <a href="{{ ('/VX0G8waF29qPiHoA') }}" class="d-block">Dashboard</a>
         </div>
       </div>
       <!-- Sidebar Menu -->
@@ -22,22 +22,22 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href={{ ('/laporankebudayaan') }} class="nav-link">
+                <a href={{ ('/lUY11RVN73IQuZ5d') }} class="nav-link">
                   <p>Bidang Kebudayaan</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href={{ ('/laporanpariwisata') }} class="nav-link">
+                <a href={{ ('/zyXyQNjXVK6cYXic') }} class="nav-link">
                   <p>Bidang Pariwisata</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href={{ ('/laporankesekertariatan') }} class="nav-link">
+                <a href={{ ('/nqaddtKSWILVyJ1J') }} class="nav-link">
                   <p>Bidang Kesekertariatan</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href={{ ('/laporanpemasaran') }} class="nav-link">
+                <a href={{ ('/Hcq7UPcqqklB57DC') }} class="nav-link">
                   <p>Bidang Pemasaran</p>
                 </a>
               </li>
@@ -53,17 +53,17 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href={{ ('/perhari') }} class="nav-link">
+                <a href={{ ('/PxxnUIDDaa2M4UdS') }} class="nav-link">
                   <p>Perhari</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href={{ ('/perbulan') }} class="nav-link">
+                <a href={{ ('/xNYdxsgFtMEKp4jN') }} class="nav-link">
                   <p>Perbulan</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href={{ ('/pertahun') }} class="nav-link">
+                <a href={{ ('/3T91OKxCfjI1uzg5') }} class="nav-link">
                   <p>Pertahun</p>
                 </a>
               </li>
@@ -71,7 +71,7 @@
           </li>
           <li class="nav-item">
               <li class="nav-item">
-                <a href={{ ('/perawatan') }} class="nav-link">
+                <a href={{ ('/4r8IM90zslIp3WQU') }} class="nav-link">
                   <p>Perawatan</p>
                 </a>
               </li>

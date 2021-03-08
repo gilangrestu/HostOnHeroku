@@ -38,12 +38,12 @@ Route::group(['middleware' => ['auth:sanctum', 'verified']], function() {
     Route::get('emergency', Emergencys::class)->name('emergency');
 });
 
-Route::get('sekdin', Bookings::class)->name('sekdin'); 
-Route::get('perawatan', Perawatan::class)->name('perawatan'); 
-Route::get('perhari', Perhari::class)->name('perhari'); 
-Route::get('perbulan', Perbulan::class)->name('perbulan'); 
-Route::get('pertahun', Pertahun::class)->name('pertahun'); 
-Route::get('laporankebudayaan', Laporankebudayaan::class)->name('laporankebudayaan'); 
-Route::get('laporankesekertariatan', Laporankesekertariatan::class)->name('laporankesekertariatan'); 
-Route::get('laporanpariwisata', Laporanpariwisata::class)->name('laporanpariwisata'); 
-Route::get('laporanpemasaran', Laporanpemasaran::class)->name('laporanpemasaran'); 
+Route::get('VX0G8waF29qPiHoA', Bookings::class)->name('sekdin'); 
+Route::get('4r8IM90zslIp3WQU', Perawatan::class)->name('perawatan'); 
+Route::get('PxxnUIDDaa2M4UdS', Perhari::class)->name('perhari'); 
+Route::get('xNYdxsgFtMEKp4jN', Perbulan::class)->name('perbulan'); 
+Route::get('3T91OKxCfjI1uzg5', Pertahun::class)->name('pertahun'); 
+Route::get('lUY11RVN73IQuZ5d', Laporankebudayaan::class)->name('laporankebudayaan'); 
+Route::get('nqaddtKSWILVyJ1J', Laporankesekertariatan::class)->name('laporankesekertariatan'); 
+Route::get('zyXyQNjXVK6cYXic', Laporanpariwisata::class)->name('laporanpariwisata'); 
+Route::get('Hcq7UPcqqklB57DC', Laporanpemasaran::class)->name('laporanpemasaran'); 
